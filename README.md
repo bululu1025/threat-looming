@@ -10,7 +10,7 @@ This repository contains the source code and demo data used in our study. The sc
 *   **Python Version:** 3.12
 *   **Dependencies:** The code requires standard data analysis libraries. You can install them via pip:
     ```bash
-    pip install numpy pandas scipy matplotlib scikit-learn openpyxl
+    pip install numpy pandas scipy matplotlib scikit-learn openpyxl patsy seaborn statsmodels scikit-fda tqdm
     ```
 
 ## 3. File Structure & Usage
